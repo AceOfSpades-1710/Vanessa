@@ -64,7 +64,7 @@ pip install flask groq dotenv psycopg2-binary -i https://pypi.tuna.tsinghua.edu.
 
 
 2. **Access the Bot**:
-- Open your browser and go to [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
+- Open your browser and go to #.
 - Start chatting! Use the "+ New Chat" button to begin a new session.
 
 3. **Test Features**:
